@@ -283,7 +283,7 @@ $(document).ready(
             position: myLocation, 
             //設定哪一張地圖(屬性名map:)要放這個Marker
             map:map1,
-            icon:"../images/pin.jpg"
+            icon:"images/pin.jpg"
         });
     }
               //[啟用]initMap()
